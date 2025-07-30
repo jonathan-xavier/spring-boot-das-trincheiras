@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc43b2fe-d3ed-4647-bccc-3baf65d1e1b7" name="Changes" comment="vide03: added external pom with modules">
-      <change afterPath="$PROJECT_DIR$/anime-service/src/main/java/academy/devdojo/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anime-service/src/main/java/outside/devdojo/OutsideController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/pom.xml" afterDir="false" />
+    <list default="true" id="cc43b2fe-d3ed-4647-bccc-3baf65d1e1b7" name="Changes" comment="vide08: explicando been e componentScan">
       <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/academy/devdojo/AnimeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/java/academy/devdojo/AnimeServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +39,9 @@
     &quot;accountId&quot;: &quot;0dc8694f-5b1c-4664-b269-3cb4351cf2ca&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -110,11 +107,20 @@
       <option name="project" value="LOCAL" />
       <updated>1753756782010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vide08: explicando been e componentScan">
+      <option name="closed" value="true" />
+      <created>1753843317581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753843317581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vide03: added external pom with modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="vide03: added external pom with modules" />
+    <MESSAGE value="vide08: explicando been e componentScan" />
+    <option name="LAST_COMMIT_MESSAGE" value="vide08: explicando been e componentScan" />
   </component>
 </project>
