@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc43b2fe-d3ed-4647-bccc-3baf65d1e1b7" name="Changes" comment="vide08: explicando been e componentScan">
-      <change beforePath="$PROJECT_DIR$/anime-service/src/main/java/academy/devdojo/AnimeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/anime-service/src/main/java/academy/devdojo/AnimeServiceApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc43b2fe-d3ed-4647-bccc-3baf65d1e1b7" name="Changes" comment="vide08: explicando been e componentScan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="video08" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,6 +78,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AnimeServiceApplication" />
+        <item itemvalue="Application.AnimeServiceApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753843317581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="vide08: explicando been e componentScan">
+      <option name="closed" value="true" />
+      <created>1753843384250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753843384250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
